@@ -4,11 +4,11 @@ title: Research Methodology - welcome to edit
 tags: readme, tbc
 category: readme
 ---
-1. V?i nh?ng lu?n ği?m b?t l?i v?i chính quy?n Vi?t Nam:
-	- İu tiên t?m nh?ng b?ng ch?ng trung l?p ğ? cho k?t qu? khách quan (tuy nhiên, không d?)
-	- T?m b?ng ch?ng trong chính bài báo và tài li?u c?a chính quy?n Vi?t Nam, lúc ğó tính khách quan v?n ğı?c ğ?m b?o ? m?c ğ? nào ğó
-2. Khi vi?c t?m evidence là quá khó khãn
-	- Ğó là lúc ğıa ra nh?ng l?p lu?n (most of historians have to do that btw)
-	- S? d?ng phıõng pháp so sánh v?i nh?ng s? ki?n tıõng t? 
-	(cùng 1 hoàn c?nh ğó, nı?c A ğ? làm (ho?c không làm) th? này trong s? ki?n B r?i cu?i cùng nı?c A nh?n k?t qu? XXYYZZ ....)
+1. Vá»›i nhá»¯ng luáº­n Ä‘iá»ƒm báº¥t lá»£i vá»›i chÃ­nh quyá»n Viá»‡t Nam
+	- Æ¯u tiÃªn tÃ¬m nhá»¯ng báº±ng chá»©ng trung láº­p nháº¥t cho káº¿t quáº£ khÃ¡ch quan (táº¥t nhiÃªn lÃ  khÃ´ng dá»…)
+	- TÃ¬m báº±ng chá»©ng trong chÃ­nh nhá»¯ng bÃ i bÃ¡o vÃ  tÆ° liá»‡u cá»§a chÃ­nh quyá»n Viá»‡t Nam, lÃ m tÃ­nh khÃ¡ch quan váº«n Ä‘Æ°á»£c Ä‘áº£m báº£o á»Ÿ má»©c cao
+2. Khi viá»‡c tÃ¬m evidence lÃ  quÃ¡ khÃ³ khÄƒn
+	- ÄÃ¢y lÃ  lÃºc Ä‘Æ°a ra nhá»¯ng láº­p luáº­n (most of historians have to do that btw)
+	- Sá»­ dá»¥ng phÆ°Æ¡ng phÃ¡p so sÃ¡nh vá»›i nhá»¯ng sá»± kiá»‡n tÆ°Æ¡ng tá»± 
+	(cÃ¹ng 1 hoÃ n cáº£nh nhÆ° váº­y, nÆ°á»›c A Ä‘Ã£ lÃ m (hoáº·c khÃ´ng lÃ m) tháº¿ nÃ y trong sá»± kiá»‡n B dáº¥n Ä‘áº¿n nÆ°á»›c A nháº­n káº¿t quáº£ XXYYZZ ....)
 3. 
